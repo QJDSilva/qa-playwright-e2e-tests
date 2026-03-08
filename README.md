@@ -23,6 +23,9 @@ Authentication
 
 ## Project Structure
 
+## Project Structure
+
+```text
 qa-playwright-tests
 │
 ├── tests
@@ -30,6 +33,7 @@ qa-playwright-tests
 │
 ├── pages
 │   └── loginPage.ts
+```
 
 ## Learning Purpose
 This project is part of my QA automation learning journey. The goal is to practice E2E test automation, test design, and good testing practices using Playwright.
